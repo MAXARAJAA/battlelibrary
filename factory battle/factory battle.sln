@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "factory battle", "factory battle\factory battle.csproj", "{C9EEB323-2761-450F-ACDD-98493A28CB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleLibrary1", "BattleLibrary1\BattleLibrary1.csproj", "{2C8AC150-03DA-4A75-902C-3D96EA8202D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EEB323-2761-450F-ACDD-98493A28CB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EEB323-2761-450F-ACDD-98493A28CB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EEB323-2761-450F-ACDD-98493A28CB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EEB323-2761-450F-ACDD-98493A28CB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8AC150-03DA-4A75-902C-3D96EA8202D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8AC150-03DA-4A75-902C-3D96EA8202D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8AC150-03DA-4A75-902C-3D96EA8202D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8AC150-03DA-4A75-902C-3D96EA8202D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A7FECD-527D-4802-A6F1-C14859FCB9FC}
+	EndGlobalSection
+EndGlobal
